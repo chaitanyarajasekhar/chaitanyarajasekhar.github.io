@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Chaitanya Rajasekhar</title>
+    <link>https://chaitanyarajasekhar.github.io/project/</link>
+    <description>Recent content in Projects on Chaitanya Rajasekhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://chaitanyarajasekhar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MPC</title>
+      <link>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</guid>
+      <description>Add some info</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Chaitanya Rajasekhar</title>
+    <link>https://chaitanyarajasekhar.github.io/home/</link>
+    <description>Recent content in Homes on Chaitanya Rajasekhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://chaitanyarajasekhar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://chaitanyarajasekhar.github.io/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/hero/</guid>
+      <description>Star -- </description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://chaitanyarajasekhar.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://chaitanyarajasekhar.github.io/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://chaitanyarajasekhar.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://chaitanyarajasekhar.github.io/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://chaitanyarajasekhar.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://chaitanyarajasekhar.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/teaching/</guid>
+      <description> This is an example of using the custom widget to create your own homepage section.
+This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
+  ## Example content -- I was a Teaching Assistant for the following course at University of Florida:
+ EEE5182: State Variable Methods for Controls (Summer 2017)  </description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://chaitanyarajasekhar.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://chaitanyarajasekhar.github.io/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://chaitanyarajasekhar.github.io/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chaitanyarajasekhar.github.io/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
