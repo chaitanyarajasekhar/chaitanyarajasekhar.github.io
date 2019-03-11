@@ -6,18 +6,18 @@
     <description>Recent content in Reinforcement Learning on Chaitanya Rajasekhar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://chaitanyarajasekhar.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MPC</title>
+      <title>Multi-agent Aggressive Driving</title>
       <link>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</guid>
-      <description>Add some info</description>
+      <description>I am working on an intel funded project to study aggressive driving and tracking on the sundevil-f1/10car (RC-car) platform. The main goal of the project is to use a probabilistic reinforcement learning framework to learn to drive as close as to the obstacle or tracking object by avoiding collisions.</description>
     </item>
     
   </channel>

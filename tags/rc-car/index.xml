@@ -6,18 +6,28 @@
     <description>Recent content in RC-Car on Chaitanya Rajasekhar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://chaitanyarajasekhar.github.io/tags/rc-car/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>RC-car</title>
+      <title>Video-demo</title>
+      <link>https://chaitanyarajasekhar.github.io/post/updated_car/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/post/updated_car/</guid>
+      <description>Please click on the image below for the video. In the video I have used BLDC_tool from veddar, to set constant steering angle and throttle values to make the car move in circles.</description>
+    </item>
+    
+    <item>
+      <title>sundevil-f1/10car</title>
       <link>https://chaitanyarajasekhar.github.io/post/rc_car_getting_started/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 -0700</pubDate>
       
       <guid>https://chaitanyarajasekhar.github.io/post/rc_car_getting_started/</guid>
-      <description>Academic</description>
+      <description>We at Interactive Robotics Lab at ASU are working on RC-car based robotics platform for multi-agent research. We call it f1/10car which stands for Fast - 1/10th (scale) - Cooperative - Autonomous - Robot. This project is funded by Intel. It is based on Traxxas Slash 4x4 platinum RC-car, and inspired by the mit-racecar design.
+In this post, I will be briefly describing the electronics hardware and software we are using in the car.</description>
     </item>
     
   </channel>

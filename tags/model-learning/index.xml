@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Learning on Chaitanya Rajasekhar</title>
+    <link>https://chaitanyarajasekhar.github.io/tags/model-learning/</link>
+    <description>Recent content in Model Learning on Chaitanya Rajasekhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://chaitanyarajasekhar.github.io/tags/model-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-agent Aggressive Driving</title>
+      <link>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</guid>
+      <description>I am working on an intel funded project to study aggressive driving and tracking on the sundevil-f1/10car (RC-car) platform. The main goal of the project is to use a probabilistic reinforcement learning framework to learn to drive as close as to the obstacle or tracking object by avoiding collisions.</description>
+    </item>
+    
+  </channel>
+</rss>

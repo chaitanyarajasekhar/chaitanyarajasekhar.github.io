@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://chaitanyarajasekhar.github.io/post/updated_car/</loc>
+      <lastmod>2019-03-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://chaitanyarajasekhar.github.io/post/rc_car_getting_started/</loc>
-      <lastmod>2019-02-25T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-07T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -13,7 +21,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/project/multi-agent-aggressive-driving/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -52,7 +60,16 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/</loc>
-      <lastmod>2019-02-25T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-09T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chaitanyarajasekhar.github.io/tags/model-learning/</loc>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,7 +78,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/tags/model-predictive-control/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -70,7 +87,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/tags/multi-agent-systems/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -79,7 +96,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/post/</loc>
-      <lastmod>2019-02-25T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-09T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -87,7 +104,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -104,7 +121,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/tags/rc-car/</loc>
-      <lastmod>2019-02-25T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-09T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -113,7 +130,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/tags/reinforcement-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -122,7 +139,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -131,7 +148,7 @@
     <url>
     
       <loc>https://chaitanyarajasekhar.github.io/authors/admin/</loc>
-      <lastmod>2019-02-25T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-09T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
